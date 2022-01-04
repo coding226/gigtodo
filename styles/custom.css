@@ -1,0 +1,76 @@
+/*
+Author Name: test
+Author Email: test
+Author URL: test
+Script Version: v1.5.2
+NB: If changes don't apply, try adding "!important" For example:
+.btn {
+    color: blue !important;
+}
+
+*/
+
+/********** Start Writing Your Own Custom CSS Code Here ***********/
+.gnav-header .account-nav {float:left!important;}
+.gnav-header .search-nav {
+    position: relative;
+    float: right!important;
+    width: 25%!important;
+    margin-left: 15px!important;
+}
+.gnav-header #search-query {top:auto!important;border-top-left-radius:30px!important;
+border-bottom-left-radius:30px!important;}
+.gnav-header .search-button-wrapper .btn-primary {
+border-top-right-radius:30px;
+border-bottom-right-radius:30px;
+}
+.btn_join {border-radius:30px!important}
+#desktop-category-nav.cat-nav  .justify-content-space-between {justify-content:center!important;}
+#desktop-category-nav.cat-nav li a {font-size:16px; padding:8px 18px;}
+.card-box .subcategory {display:block; height:100%;}
+.card-box .subcategory h4 {bottom:0; background-color:rgba(0,0,0,0.5); border-bottom-left-radius:10px;border-bottom-right-radius:10px;width:100%!important;margin:0}
+.card-box .subcategory img {border-radius:10px!important;}
+.market {padding:110px 0 50px!important;}
+.grn_box {display:flex; align-items:center; padding:15px;}
+.grn_box img {width:32px;height:32px;}
+.grn_box p {margin:0!important; font-size:17px!important; font-weight:600; letter-spacing:1px;  text-align: left!important;}
+.grn_box .circle {background-color:rgba(88, 56, 255, .05); border:2px solid rgba(88, 56, 255, .1) ; width:80px; height:80px; line-height:76px; text-align:center; margin-right:20px;} .timer .box {background-color:rgba(88, 56, 255, .05); } .timer {background-color:#fff!important;}
+#proposal_category .nav-link {font-size:16px;
+ margin-bottom:10px; display: block;}
+.card-header h3, .card-header h5  {margin-bottom:0!important}
+.timer {padding:0px!important;} .timer h5 {font-size:20px!important} .timer p {font-size:16px!important;}
+.proposal-card-caption {display:flex; flex-direction:column; padding:15px 0;} 
+.proposal-seller-info {order:3;} .seller-name {text-transform:capitalize}
+#proposal_category li ul {padding-left:0; list-style:square}
+#proposal_category li a i {font-size:14px}
+#proposal_category li a {color:#333!important; font-size:16px}
+#proposal_category li a:hover, #proposal_category .nav-link.active a {color:#5838ff!important}
+#proposal_category li li a {color:#666; font-size:14px;}
+.proposal-sidebar .nav-tabs .nav-link.active, .seller-bio .col-md-6 i { border-bottom-color: #5838ff!important; color:#5838ff!important}
+#mainNav li.selected:after {background:#5838ff!important;} #mainNav a {color:#5838ff!important}
+.proposal-card-base.mp-proposal-card {border-radius:10px;}
+.proposal-card-base.mp-proposal-card img {border-top-left-radius:10px; border-top-right-radius:10px;}
+center h1 {color:#5838ff}
+#category_proposals .proposal-price {padding-left:15px; padding-bottom:15px;}
+.cat-column .col-xl-3 {max-width:33.3%!important; width:33.3%!important; flex:0 0 33.3%}
+.rel {position:relative}
+.favoriteIcon {position:absolute;top:20px;right:20px;}
+.proposal-card-base.mp-proposal-card .proposal-card-footer {padding-bottom:4px; height:auto!important}
+.btn-order {background-color:#fff!important; border:1px solid #5838ff!important; color:#5838ff!important}
+.btn-order.primary {color:#fff!important;}
+a:hover, .proposal-card-base .proposal-link-main h3:hover {color:#5838ff!important}
+.banner {background-color:#5838ff!important; color:#fff!important;padding:30px; margin:0 -30px 50px;} .banner h1 {color:#fff!important}
+.freelancerBox .tagline li {margin-bottom:10px; font-size:15px}
+.card-header.border-success {background-color:#fff!important}
+.freelancerBox  .request-description h6 {font-size:17px; text-transform:capitalize; margin-bottom:14px}
+.freelancerBox .tagline li i {color:#5838ff!important; margin-right:14px}
+.wt-userlistingimg small {display:block; text-align:center;margin-top:14px!important;}
+#chatBtn {display:block}
+.proposal-card-base.mp-proposal-card .proposal-card-footer .proposal-price { position:relative!important; padding:8px 16px!important; text-align:right; bottom:0!important; }
+.order-box {padding:30px}
+.gigtodo-logo-svg-logged-in .desktop {
+  width:100px;
+  margin-top:-10px!important;
+}
+.ui-toolkit .btn-primary, .sign-in-link .btn_join, a.support-que.close, .btn-success, .card-header.bg-success, .page-item.active .page-link {background-color:#5838ff!important}
+.ui-toolkit .btn-primary.btn-primary:hover, .sign-in-link .btn_join:hover, a.support-que.close:hover {background-color:#3838ff!important} .page-link {color:#5838ff!important}
